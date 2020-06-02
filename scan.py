@@ -1,7 +1,7 @@
 # USAGE:
 # python scan.py (--images <IMG_DIR> | --image <IMG_PATH>) [-i]
 # For example, to scan a single image with interactive mode:
-# python scan.py --image sample_images/desk.JPG -i
+# python scan.py --image sample_images/"sample img" -i
 # To scan all images in a directory automatically:
 # python scan.py --images sample_images
 
