@@ -10,3 +10,4 @@ Document scanner using OpenCV, canny edge detection.
 - matplotlib
 - numpy
 - scipy
+- pyimagesearch
